@@ -7,14 +7,15 @@ assignees: ''
 ---
 
 # Bug
-Descreva, brevemente, o erro.
+
+> Descreva, brevemente, o erro.
 
 ## Replicando o erro
+
 1. _Aqui você coloca o passo-a-passo para causar o mesmo erro que você sofreu._
-1. _Use uma lista enumerada para indicar a ordem dos passos._
+2. _Use uma lista enumerada para indicar a ordem dos passos._
 
 ```python
-
 # Código do erro
 
 # Output
@@ -24,6 +25,7 @@ Descreva, brevemente, o erro.
 
 
 ## Informações que podem ajudar
-Aqui você coloca as informações da máquina.
+
+> Aqui você coloca as informações da máquina.
 
 - **Versão Python**: 3.6
