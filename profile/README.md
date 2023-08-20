@@ -99,6 +99,7 @@ Tá fácil! Abaixo você encontra todas nossas redes sociais e grupos de whatsap
 Ou <a href="https://linklist.bio/VagasAtados">trabalhe conosco</a>, vem ser Atader!
 <br>
 <br>
+<br>
 
 <p align="center">
   <a target="__blank" href="https://blog.atados.com.br/grupo-whatsapp">
