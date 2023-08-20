@@ -121,6 +121,7 @@ Não se trata só de uma plataforma, as equipes do Atados trabalham diariamente 
     </td>
   </tr>
 </table>
+<br>
 
 <h1>Adorei e quero ficar por dentro de tudo!</h1>
 Tá fácil! Abaixo você encontra todas nossas redes sociais e grupos de whatsapp. Além disso, com seu email cadastrado no site você já recebe notícias periodicamente!<br>
