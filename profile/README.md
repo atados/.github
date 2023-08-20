@@ -46,7 +46,6 @@ Nossa plataforma conecta de forma <u><b>gratuita</b></u> pessoas à oportunidade
 
 <table>
   <tr>
-    <td><img width="500" src="https://atados.com.br/static/svg/02.svg"></td>
     <td>
       <h3>ATADOS PARA ONGS:</h3>
       <ul>
@@ -57,11 +56,13 @@ Nossa plataforma conecta de forma <u><b>gratuita</b></u> pessoas à oportunidade
         <li>Celebre e conte como foi a ação</li>
       </ul>
     </td>
+    <td><img width="500" src="https://atados.com.br/static/svg/02.svg"></td>
   </tr>
 </table>
 
 <table>
   <tr>
+    <td><img width="500" src="https://atados.com.br/static/svg/04.svg"></td>
     <td>
       <h3>ATADOS PARA VOLUNTÁRIOS:</h3>
       <ul>
@@ -70,37 +71,6 @@ Nossa plataforma conecta de forma <u><b>gratuita</b></u> pessoas à oportunidade
         <li>Responda à organização confirmando sua presença</li>
         <li>Engaje-se na ação</li>
         <li>Celebre e conte como foi a ação</li>
-      </ul>
-    </td>
-    <td>
-      <img width="500" src="https://atados.com.br/static/svg/04.svg">
-    </td>
-  </tr>
-</table>
-<br>
-<h1>Fortalecemos a nossa rede</h1>
-
-Não se trata só de uma plataforma, as equipes do Atados trabalham diariamente promovendo fortalecimento da nossa rede. Confira como:
-
-<table width="100%">
-  <tr>
-    <td>
-      <img src="https://atados.com.br/static/svg/01.svg">
-    </td>
-    <td>
-      <ul>
-        <li>
-          Se conecte com outras organizações por meio de encontros organizados pelo Atados;
-        </li>
-        <li>
-          Receba conteúdos que selecionamos para fortalecer e apoiar sua instituição;
-        </li>
-        <li>
-          Tenha acesso à materiais que desenvolvemos para melhorar sua gestão de voluntariado;
-        </li>
-        <li>
-          Participe de eventos e capacitações oferecidas pelo atados e parceiros.
-        </li>
       </ul>
     </td>
   </tr>
